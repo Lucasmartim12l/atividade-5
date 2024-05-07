@@ -1,0 +1,11 @@
+*{
+    font-family: 'Lucida Grande';
+}    
+body{
+    background-color:#1e3a8a;
+    color: #f4f4f5;
+}
+
+h1, h2, h3 {
+    color: #18181b;
+}
